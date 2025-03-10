@@ -1,0 +1,10 @@
+fientuned_contract_model/
+contracts/
+requirements.txt
+.env
+.env.local
+.env.development.local
+.env.test.local
+venv/
+data/
+finetuned_contract_model/

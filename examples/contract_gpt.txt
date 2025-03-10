@@ -1,0 +1,96 @@
+**SERVICE AGREEMENT**  
+*(This Agreement is made and entered into on this [Date] by and between:)*
+
+**1. PARTIES:**  
+This Service Agreement ("Agreement") is made and entered into as of [Date] by and between:
+
+**[Company Name]**, a company registered under the Companies Act, 2013, having its registered office at [Company Address] (hereinafter referred to as the "Company"),
+
+AND
+
+**[Freelancer Name]**, an individual residing at [Freelancer Address], (hereinafter referred to as the "Freelancer").
+
+Both parties collectively referred to as the "Parties" and individually as a "Party".
+
+---
+
+**2. SCOPE OF WORK:**  
+The Freelancer agrees to provide the following services ("Services") to the Company:
+[Describe the services to be provided in detail]
+
+The Freelancer shall perform these services with due diligence, skill, and care in accordance with the professional standards applicable to the work.
+
+---
+
+**3. TERM & TERMINATION:**  
+This Agreement shall commence on [Start Date] and shall continue until [End Date] unless terminated earlier by either Party.
+
+Either Party may terminate this Agreement by providing [Number] days written notice to the other Party. The Company may terminate immediately in case of a material breach by the Freelancer.
+
+---
+
+**4. COMPENSATION & PAYMENT TERMS:**  
+The Company agrees to pay the Freelancer a total amount of INR [Amount] for the services rendered.
+
+- Payment will be made [Weekly/Monthly/Project-based].  
+- Payment shall be made via [Bank Transfer/UPI/Other Mode].  
+- The Freelancer shall provide invoices before receiving payments.  
+
+All applicable taxes shall be the sole responsibility of the Freelancer unless otherwise stated.
+
+---
+
+**5. CONFIDENTIALITY:**  
+The Freelancer agrees to keep all information obtained during the course of providing services confidential and shall not disclose it to any third party without prior written consent from the Company.
+
+This obligation shall survive the termination of this Agreement.
+
+---
+
+**6. INTELLECTUAL PROPERTY RIGHTS:**  
+All intellectual property created, developed, or produced by the Freelancer as part of this Agreement shall belong exclusively to the Company. The Freelancer agrees to transfer all rights, titles, and interests to the Company.
+
+---
+
+**7. INDEPENDENT CONTRACTOR:**  
+The Freelancer is an independent contractor and shall not be considered an employee of the Company. The Freelancer shall not be entitled to any employee benefits, including but not limited to insurance, PF, or gratuity.
+
+---
+
+**8. INDEMNITY & LIABILITY:**  
+The Freelancer agrees to indemnify and hold harmless the Company from any losses, damages, or claims arising from the Freelancer’s work.
+
+The Company’s liability under this Agreement shall be limited to the fees paid to the Freelancer.
+
+---
+
+**9. DISPUTE RESOLUTION & GOVERNING LAW:**  
+Any disputes arising out of this Agreement shall be resolved amicably. If unresolved, such disputes shall be referred to arbitration under the Arbitration and Conciliation Act, 1996, with the venue of arbitration being [City].
+
+This Agreement shall be governed by and interpreted in accordance with the laws of India, and the courts of [Jurisdiction City] shall have exclusive jurisdiction.
+
+---
+
+**10. MISCELLANEOUS:**  
+- **Entire Agreement**: This Agreement constitutes the entire agreement between the Parties.
+- **Amendments**: Any amendments to this Agreement must be made in writing and signed by both Parties.
+- **Severability**: If any provision of this Agreement is found to be invalid, the remaining provisions shall continue to be valid and enforceable.
+
+---
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the date first above written.
+
+**For Company:**  
+[Authorized Signatory Name]  
+[Designation]  
+[Company Name]  
+Signature: ______________  
+Date: ______________  
+
+**For Freelancer:**  
+[Freelancer Name]  
+Signature: ______________  
+Date: ______________  
+
+---
+
