@@ -3,7 +3,7 @@ from rich.text import Text
 from rich.panel import Panel
 
 # Load the contract text
-contract_file = "examples\contract_finetuned.txt"
+contract_file = "examples\contract_gpt.txt"
 with open(contract_file, "r", encoding="utf-8") as f:
     contract_text = f.read()
 
